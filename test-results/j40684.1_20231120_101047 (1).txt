@@ -1,0 +1,66 @@
+DATE Mon Nov 20 10:05:34 2023
+Tool Number NADAsort001
+Process Program  SORTDESCENDING_ADLK
+Cycle N° 14794
+
+LOT_ID_CASS_1 j40684.1
+NB_WAF_C1  25 wafer(s) 
+MAP_C1   1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+Read Scribe                      ADLK
+OCR_MODE_NAME  	                      ALL
+
+
+Station C
+SLOT   01 :   State 01      Read J40684.1-01-B0
+SLOT   02 :   State 01      Read J40684.1-02-D3
+SLOT   03 :   State 01      Read J40684.1-03-F6
+SLOT   04 :   State 01      Read J40684.1-04-A6
+SLOT   05 :   State 01      Read J40684.1-22-E4
+SLOT   06 :   State 01      Read J40684.1-06-F4
+SLOT   07 :   State 01      Read J40684.1-07-A4
+SLOT   08 :   State 01      Read J40684.1-08-C7
+SLOT   09 :   State 01      Read J40684.1-14-F0
+SLOT   10 :   State 01      Read J40684.1-10-C7
+SLOT   11 :   State 01      Read J40684.1-11-F2
+SLOT   12 :   State 01      Read J40684.1-12-A2
+SLOT   13 :   State 01      Read J40684.1-13-C5
+SLOT   14 :   State 01      Read J40684.1-09-F2
+SLOT   15 :   State 01      Read J40684.1-15-A0
+SLOT   16 :   State 01      Read J40684.1-16-C3
+SLOT   17 :   State 01      Read J40684.1-17-E6
+SLOT   18 :   State 01      Read J40684.1-18-H1
+SLOT   19 :   State 01      Read J40684.1-19-C1
+SLOT   20 :   State 01      Read J40684.1-20-H1
+SLOT   21 :   State 01      Read J40684.1-21-C1
+SLOT   22 :   State 01      Read J40684.1-05-D1
+SLOT   23 :   State 01      Read J40684.1-23-G7
+SLOT   24 :   State 01      Read J40684.1-24-B7
+SLOT   25 :   State 01      Read J40684.1-25-E2
+
+Comb Slot n° 1 -> Carrier 1 Slot n° 25   ocr J40684.1-25-E2 
+Comb Slot n° 2 -> Carrier 1 Slot n° 24   ocr J40684.1-24-B7 
+Comb Slot n° 3 -> Carrier 1 Slot n° 23   ocr J40684.1-23-G7 
+Comb Slot n° 4 -> Carrier 1 Slot n° 5   ocr J40684.1-05-D1 
+Comb Slot n° 5 -> Carrier 1 Slot n° 21   ocr J40684.1-21-C1 
+Comb Slot n° 6 -> Carrier 1 Slot n° 20   ocr J40684.1-20-H1 
+Comb Slot n° 7 -> Carrier 1 Slot n° 19   ocr J40684.1-19-C1 
+Comb Slot n° 8 -> Carrier 1 Slot n° 18   ocr J40684.1-18-H1 
+Comb Slot n° 9 -> Carrier 1 Slot n° 17   ocr J40684.1-17-E6 
+Comb Slot n° 10 -> Carrier 1 Slot n° 16   ocr J40684.1-16-C3 
+Comb Slot n° 11 -> Carrier 1 Slot n° 15   ocr J40684.1-15-A0 
+Comb Slot n° 12 -> Carrier 1 Slot n° 9   ocr J40684.1-09-F2 
+Comb Slot n° 13 -> Carrier 1 Slot n° 13   ocr J40684.1-13-C5 
+Comb Slot n° 14 -> Carrier 1 Slot n° 12   ocr J40684.1-12-A2 
+Comb Slot n° 15 -> Carrier 1 Slot n° 11   ocr J40684.1-11-F2 
+Comb Slot n° 16 -> Carrier 1 Slot n° 10   ocr J40684.1-10-C7 
+Comb Slot n° 17 -> Carrier 1 Slot n° 14   ocr J40684.1-14-F0 
+Comb Slot n° 18 -> Carrier 1 Slot n° 8   ocr J40684.1-08-C7 
+Comb Slot n° 19 -> Carrier 1 Slot n° 7   ocr J40684.1-07-A4 
+Comb Slot n° 20 -> Carrier 1 Slot n° 6   ocr J40684.1-06-F4 
+Comb Slot n° 21 -> Carrier 1 Slot n° 22   ocr J40684.1-22-E4 
+Comb Slot n° 22 -> Carrier 1 Slot n° 4   ocr J40684.1-04-A6 
+Comb Slot n° 23 -> Carrier 1 Slot n° 3   ocr J40684.1-03-F6 
+Comb Slot n° 24 -> Carrier 1 Slot n° 2   ocr J40684.1-02-D3 
+Comb Slot n° 25 -> Carrier 1 Slot n° 1   ocr J40684.1-01-B0 
+
