@@ -1,0 +1,18 @@
+gantt
+    title Perfect Parking - Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Analysis & Design
+        Data Design      :done, dataDesign, 2024-01-01, 30d
+        User Interface   :ui, after dataDesign  , 10d
+    section Development
+        Django Website   :active, django, after ui, 30d
+        Django REST Website:active, djangoRest, after ui, 30d
+        OpenCV           :active, milestone, opencv, after aiSolutions, 20d
+    section Testing
+        Unit Testing     :after django, 10d
+        Integration Testing:after djangoRest, 10d
+        System Testing   :after opencv, 10d
+    section Documentation
+        Submission       :crit, milestone, submission, 2024-04-25, 5d
+        Project Document :after submission, 20d
+        Presentation     :after submission, 2d

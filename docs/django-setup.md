@@ -12,6 +12,8 @@ django-admin startproject wafer_id_website
 python manage.py startapp wafer_id
 ```
 
+*You may need to move the folder*
+
 ```bash
 python manage.py migrate
 ```
